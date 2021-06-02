@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bri-b-dev
 - 👀 I’m interested in trying and learning new technologies
-- 🌱 I’m currently learning Go auto-trading, Cloud infrastructure (Azure)
+- 🌱 I’m currently learning Go, auto-trading, Cloud infrastructure (Azure)
 - 💞️ I’m looking to collaborate on data-driven decision making
 - 📫 just ping me on LinkedIn
 
